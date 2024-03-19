@@ -87,6 +87,10 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 ### Images
 
+测试图片插入
+
+![testImage](D:\gitPage\hydeout-master\_screenshots\1.png)
+
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
