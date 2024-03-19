@@ -1,6 +1,6 @@
 ---
 layout: category
-title: 新页签
+title: 住客一览
 ---
 
 c测试新页签添加
