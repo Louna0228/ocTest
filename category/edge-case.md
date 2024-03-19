@@ -2,7 +2,7 @@
 layout: category
 title: Edge Case
 ---
-
+测试是不是边栏bar点进去的修改
 Sample category page. You need to create a page for each category.
 The category is inferred from the title of the page, but you can also
 specify it with the `category` attribute in the front matter.
