@@ -89,7 +89,7 @@ Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo r
 
 测试图片插入
 
-![TestImage](https://github.com/Louna0228/ocTest/tree/main/assets/image/textImage.png)
+![TestImage](https://raw.githubusercontent.com/Louna0228/ocTest/main/assets/image/textImage.png)
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
