@@ -1,6 +1,7 @@
 ---
 layout: category
 title: 住客使用手册
+sidebar_link: true
 ---
 
 
