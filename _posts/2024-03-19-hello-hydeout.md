@@ -1,15 +1,13 @@
 ---
-layout: post_noCom
+layout: post_subtitle
 title: 欢迎光临缝合拼凑恐怖馆！
-sub_title: 
+sub_title: 您有可能在任何地方、任何时间、以任何身份遇见本馆。
 categories:
   - 入馆须知
 excerpt_separator:  <!--more-->
 ---
 
 
-
-您有可能在任何地方、任何时间、以任何身份遇见本馆。
 
 本着“友好、开放、平等”的原则，恐怖馆对每个有缘人开放！恐怖馆大门不设置门锁，您可以自由进入！
 

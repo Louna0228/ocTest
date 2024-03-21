@@ -1,5 +1,5 @@
 ---
-layout: post_noCom
+layout: post_subtitle
 title: 【灰田佑羽】
 categories:
   - 住客使用手册
