@@ -1,7 +1,9 @@
 ---
 layout: post_subtitle
 title: 欢迎光临缝合拼凑恐怖馆！
-sub_title: "您有可能在任何地方、任何时间、以任何身份遇见本馆。"
+sub_title: 您有可能在任何地方、任何时间、以任何身份遇见本馆。
+categories:
+  - 入馆须知
 excerpt_separator:  <!--more-->
 ---
 
