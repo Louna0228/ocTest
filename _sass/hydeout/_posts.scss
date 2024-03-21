@@ -99,3 +99,22 @@ article + *,
 button.disqus-load {
   margin-top: 1em;
 }
+
+
+.round-portrait {
+  width:150px;
+  height:150px;
+  border-radius: 50%;
+  overflow:hidden;
+  display: flex;
+  align-items:center;
+  justify-content: center;
+
+}
+
+.round-portrait img {
+  width:100%;
+  height:auto;
+
+}
+
