@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post_noCom&Date
 title: 欢迎光临缝合拼凑恐怖馆！
 excerpt_separator:  <!--more-->
 ---
