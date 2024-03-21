@@ -1,7 +1,6 @@
 ---
 layout: category
 title: 馆藏档案
-sidebar_link: true
 ---
 ***仅供馆长和幸运儿阅读***
 
