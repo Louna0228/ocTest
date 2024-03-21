@@ -1,4 +1,5 @@
 <div class="post-subtitle">
+  <span class="post-subtitle">{{ page.subtitle }}</span>
   <span class="post-categories">
     {% for category in include.post.categories %}
       &bull;
@@ -24,6 +25,5 @@
         {{ category }}
       {% endif %}
     {% endfor %}
-    </span>
-  <span class="post-subtitle">{{ page.subtitle }}</span>
+  </span>
 </div>
